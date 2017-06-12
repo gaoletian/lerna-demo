@@ -1,2 +1,2 @@
 # lerna-demo
-lerna-demo
+lerna-demo project test
